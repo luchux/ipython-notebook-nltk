@@ -20,9 +20,6 @@ Many of the exercies and content is stuff I learned and used from:
 - [Natural Language Processing with Python] http://shop.oreilly.com/product/9780596516499.do
 
 
-TODO: 
-- check if it is working with new Ipython Notebook (Jupyter). 
-
 MIT License
 
 Copyright (c) 2009 - Luciano M. Guasco (luchux) 
