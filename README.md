@@ -3,10 +3,10 @@ ipython-notebook-nltk
 
 An introduction to NLTK with python.
 
-# RUN THE NOTEBOOK AND SEE PREVIEW IN GITHUB: 
+### RUN THE NOTEBOOK AND SEE PREVIEW IN GITHUB: 
 - [Render Notebook](https://github.com/luchux/ipython-notebook-nltk/blob/master/NLP%20-%20MelbDjango.ipynb)
 
-# RUN IT LOCALLY WITH THE ENV AND LIBS NEEDED
+### RUN IT LOCALLY WITH THE ENV AND LIBS NEEDED
 - Clone the repo. 
 - Create a virtual environment and install the requeriments (You can clean them a bit if not using some of the libs). 
 - run > ipython notebook in the root directory, and enjoy the notebook. 
